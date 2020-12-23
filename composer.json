@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.3"
+    }
+}
